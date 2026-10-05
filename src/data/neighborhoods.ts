@@ -10,7 +10,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Second Street museum area?",
         "ps": [
-          "The village historian places the museum at 314 Second Street in the 1857 Gleason Mansion. Older buildings may have replacement plumbing, so ask for actual repair records rather than inferring pipe age. See <a href=\"https://villageofliverpoolny.gov/village-history/\">Village of Liverpool history</a>.",
+          "The <a href=\"https://villageofliverpoolny.gov/village-history/\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> places the museum at 314 Second Street in the 1857 Gleason Mansion. Older buildings may have replacement plumbing, so ask for actual repair records rather than inferring pipe age.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
@@ -56,7 +56,7 @@ export const neighborhoods = [
       {
         "h": "What local context matters in Oswego Street village center?",
         "ps": [
-          "The village historian records that the Hurst family willow workshop originally stood on Oswego Street before moving to the Gleason Mansion grounds in 1992. This page concerns the village center, not the wider Liverpool postal area. See <a href=\"https://villageofliverpoolny.gov/village-history/\">Village of Liverpool history</a>.",
+          "The <a href=\"https://villageofliverpoolny.gov/village-history/\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> records that the Hurst family willow workshop originally stood on Oswego Street before moving to the Gleason Mansion grounds in 1992. This page concerns the village center, not the wider Liverpool postal area.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
         ]
       },
