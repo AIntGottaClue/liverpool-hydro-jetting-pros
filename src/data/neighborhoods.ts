@@ -1,4 +1,4 @@
-export const neighborhoods = [
+export const neighborhoods =  [
   {
     "slug": "second-street",
     "name": "Second Street museum area",
@@ -12,6 +12,13 @@ export const neighborhoods = [
         "ps": [
           "The <a href=\"https://villageofliverpoolny.gov/village-history/\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> places the museum at 314 Second Street in the 1857 Gleason Mansion. Older buildings may have replacement plumbing, so ask for actual repair records rather than inferring pipe age.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
+        ]
+      },
+      {
+        "h": "What kind of drain problem are you seeing in Second Street museum area?",
+        "ps": [
+          "A blockage that keeps coming back usually raises two questions, whether roots are involved and whether grease is building up. <a href=\"/services/tree-root-intrusions/\">Hydro jetting for tree roots</a> takes the first, and <a href=\"/services/severe-grease-and-sludge/\">hydro jetting for grease and sludge</a> takes the second.",
+          "<a href=\"/services/mineral-and-scale-deposits/\">Mineral buildup</a> covers scale inside older lines, and <a href=\"/guides/hydro-jetting-vs-snaking/\">hydro jetting vs snaking</a> helps you compare the methods. The <a href=\"/\">Liverpool hydro jetting page</a> gives the full picture for Liverpool. The <a href=\"/neighborhood/oswego-street/\">Oswego Street village center</a> page covers another part of Liverpool."
         ]
       },
       {
@@ -58,6 +65,13 @@ export const neighborhoods = [
         "ps": [
           "The <a href=\"https://villageofliverpoolny.gov/village-history/\" target=\"_blank\" rel=\"noopener noreferrer\">village historian</a> records that the Hurst family willow workshop originally stood on Oswego Street before moving to the Gleason Mansion grounds in 1992. This page concerns the village center, not the wider Liverpool postal area.",
           "Local history does not identify private pipe material, age or condition. Confirm access and inspect the actual line."
+        ]
+      },
+      {
+        "h": "Which services does a line in Oswego Street village center usually need to look at?",
+        "ps": [
+          "For a line that clogs on and off, <a href=\"/services/recurring-clogs-and-slow-drains/\">hydro jetting for recurring clogs and slow drains</a> is the first page to read. A kitchen line that smells or backs up is better matched by <a href=\"/services/severe-grease-and-sludge/\">hydro jetting for grease and sludge</a>.",
+          "<a href=\"/services/preventative-maintenance/\">Preventative hydro jetting</a> and <a href=\"/services/mineral-and-scale-deposits/\">mineral buildup</a> cover upkeep and scale, and <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> covers the method. The <a href=\"/neighborhood/second-street/\">Second Street museum area</a> page covers another part of Liverpool."
         ]
       },
       {
